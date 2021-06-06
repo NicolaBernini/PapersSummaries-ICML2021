@@ -39,5 +39,5 @@ Tags: #model_improvement
 
 [A statistical perspective on distillation](techniques/distillation/why_distillation_helps_a_statistical_perspective)
 
-
+Tags: #theoretical_understanding
 
